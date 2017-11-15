@@ -24,8 +24,10 @@ At present the plugin has the following features:
 **To-Do**
 
 - [ ] Setup an externally hosted list of known scam urls
-- [ ] Setup a form for users to submit scam urls to be added to the centralized store
+- [ ] Setup a report this site feature
 - [ ] Pull in known scam URLs from community maintained lists
+- [ ] Support Punycode syntax for scam domains
+- [ ] Firefox support
 
 **Contribute**
 
