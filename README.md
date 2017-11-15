@@ -25,7 +25,7 @@ At present the plugin has the following features:
 
 - [ ] Setup an externally hosted list of known scam urls
 - [ ] Setup a report this site feature
-- [ ] Pull in known scam URLs from https://github.com/MyEtherWallet/ethereum-lists
+- [ ] Pull in known scam URLs live from https://github.com/MyEtherWallet/ethereum-lists and cache in local storage
 - [ ] Support Punycode syntax for scam domains
 - [ ] Firefox support
 

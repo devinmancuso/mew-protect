@@ -1,4 +1,3 @@
-//Define the a list of know scam mew URLS.
 //TODO: call to pull in the metamask darklist json from url
 //TODO: call to pull in the 409H darklist json from url
 
