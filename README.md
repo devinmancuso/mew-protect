@@ -3,7 +3,7 @@ MEW Protect alerts you when a scam site is pretending to look like the real vers
 
 ## Installation
 
-Simply [download the zipped plugin](https://github.com/devinmancuso/mew-protect/releases/download/1.0.0/), extract it, go to Chrome menu > More Tools > Extensions (enter chrome://extensions/ in your url bar), check developer mode (top right corner) then press Load unpacked extension button and select the plugin folder. 
+Simply [download the zipped plugin](https://github.com/devinmancuso/mew-protect/archive/0.0.1.zip), extract it, go to Chrome menu > More Tools > Extensions (enter chrome://extensions/ in your url bar), check developer mode (top right corner) then press Load unpacked extension button and select the plugin folder. 
 
 ## Usage
 
