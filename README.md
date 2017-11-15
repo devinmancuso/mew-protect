@@ -29,6 +29,10 @@ At present the plugin has the following features:
 - [ ] Support Punycode syntax for scam domains
 - [ ] Firefox support
 
+**Kudos**
+
+Kudos to [409H](https://github.com/409H/) (EtherAddressLookup) and [tayvano](https://github.com/tayvano/) (MyEtherWallet) for maintaing the [ethereum URL lists](https://github.com/MyEtherWallet/ethereum-lists)
+
 **Contribute**
 
 If you think this is a cool idea, but kind of inefficient, please submit a PR and let's make this better.
