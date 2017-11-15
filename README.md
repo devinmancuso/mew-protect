@@ -31,7 +31,7 @@ At present the plugin has the following features:
 
 **Kudos**
 
-Kudos to [409H](https://github.com/409H/) (EtherAddressLookup) and [tayvano](https://github.com/tayvano/) (MyEtherWallet) for maintaing the [ethereum URL lists](https://github.com/MyEtherWallet/ethereum-lists)
+Kudos to [409H](https://github.com/409H/) (EtherAddressLookup) and [tayvano](https://github.com/tayvano/) (MyEtherWallet) for maintaining the [ethereum URL lists](https://github.com/MyEtherWallet/ethereum-lists)
 
 **Contribute**
 
